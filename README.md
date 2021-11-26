@@ -3,3 +3,4 @@
 # free to redistribute just give credit to me and the creators of loom.
 # please delete this file before starting server
 # also delete the lisense
+# the server is in 1.17.1
